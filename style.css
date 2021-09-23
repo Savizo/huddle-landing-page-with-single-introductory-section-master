@@ -136,6 +136,7 @@ img.icon:hover {
   }
   button {
     width: 80%;
+    background-color: #fff;
   }
   .icons {
     bottom: -90px;
