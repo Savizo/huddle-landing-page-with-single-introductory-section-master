@@ -138,11 +138,14 @@ img.icon:hover {
     width: 80%;
   }
   .icons {
-    bottom: 20px;
+    bottom: -90px;
+    width: 100%;
     text-align: center;
-    width: 100px;
+    margin: auto;
     display: flex;
+    left: 10px;
     justify-content: center;
+    flex-direction: row;
   }
   footer {
     display: none;
